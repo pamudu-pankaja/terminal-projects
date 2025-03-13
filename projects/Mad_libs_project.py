@@ -1,0 +1,10 @@
+adjective1 = input("Enter a Adjective : ")
+noun1 = input("Enter a Noun : ")
+adjective2 = input("Enter a another Adjective : ")
+noun2 = input("Enter a another noun : " )
+noun3 =input('Enter a Object name : ')
+
+print(f"In a {adjective1} car")
+print(f"A {noun1} Went to meet a {adjective2} {noun2} ")
+print(f"The {noun1} has finally met the {noun2}")
+print(f"The {noun2} came closer to the {noun1} very slowly holding a {noun3}")
